@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://raw.githubusercontent.com/egasenpai/seista-regal/main/:path*"
+      "destination": "https://raw.githubusercontent.com/egasenpai/yuki-regal/main/:path*"
     }
   ]
 }
